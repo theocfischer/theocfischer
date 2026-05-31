@@ -1,10 +1,10 @@
 # Olá, eu sou o Theo Fischer
 
-🎓 Técnico em Informática pelo IFRS
-🌊 Estudante de Oceanologia na FURG
+🎓 Técnico em Informática pelo IFRS  
+🌊 Estudante de Oceanologia na FURG  
 💻 Interesse em desenvolvimento web, análise de dados e tecnologia aplicada a problemas reais
 
-Atualmente desenvolvo projetos utilizando JavaScript, Node.js, SQL e Python, buscando consolidar experiência prática em desenvolvimento web e análise de dados.
+Desenvolvo projetos em JavaScript, Node.js, SQL e Python, com foco em desenvolvimento web e análise de dados.
 
 ---
 
@@ -25,19 +25,23 @@ Atualmente desenvolvo projetos utilizando JavaScript, Node.js, SQL e Python, bus
 
 ## Projetos em destaque
 
-### Sistema de Agendamento de Quadras - IFRS
+### [Sistema de Agendamento de Quadras - IFRS](https://github.com/theocfischer/ProjetoQuadrasIFRS)
 
 Sistema web desenvolvido com Node.js, Express e MySQL para gerenciamento de usuários, autenticação, sessões e agendamentos.
 
 **Tecnologias:** Node.js, Express, MySQL, HTML, CSS e JavaScript
 
-### Análise de Dados Ambientais - Lagoa dos Patos
+---
+
+### [Análise de Dados Ambientais - Lagoa dos Patos](https://github.com/theocfischer/analise-dados-ambientais-lagoa-dos-patos)
 
 Projeto desenvolvido durante estágio na FURG utilizando Python para tratamento, organização e análise de dados ambientais relacionados à qualidade da água.
 
 **Tecnologias:** Python, Pandas, Jupyter Notebook e Matplotlib
 
-### Site Minecraft
+---
+
+### [Site Minecraft](https://github.com/theocfischer/SiteMinecraft)
 
 Projeto front-end criado para praticar estruturação de páginas, organização de arquivos, HTML, CSS e publicação com GitHub Pages.
 
@@ -47,22 +51,21 @@ Projeto front-end criado para praticar estruturação de páginas, organização
 
 ## Atualmente estudando
 
-* Desenvolvimento web
-* Backend com Node.js
-* Bancos de dados relacionais
-* Análise de dados com Python
-* Boas práticas de Git e GitHub
+- Desenvolvimento Web
+- Backend com Node.js
+- Bancos de Dados Relacionais
+- Análise de Dados com Python
+- Boas práticas de Git e GitHub
 
 ---
 
 ## Contato
 
-**LinkedIn:** https://www.linkedin.com/in/theo-fischer-8094682b7/
+**LinkedIn**  
+https://www.linkedin.com/in/theo-fischer-8094682b7/
 
-**GitHub:** https://github.com/theocfischer
+**GitHub**  
+https://github.com/theocfischer
 
-**E-mail:** theocfischer@gmail.com
-
----
-
-> Sempre buscando aprender.
+**E-mail**  
+theocfischer@gmail.com
