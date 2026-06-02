@@ -1,71 +1,90 @@
 # Olá, eu sou o Theo Fischer
 
-🎓 Técnico em Informática pelo IFRS  
-🌊 Estudante de Oceanologia na FURG  
-💻 Interesse em desenvolvimento web, análise de dados e tecnologia aplicada a problemas reais
+Técnico em Informática pelo IFRS, com foco em **desenvolvimento web, Python, dados e sistemas**.
 
-Desenvolvo projetos em JavaScript, Node.js, SQL e Python, com foco em desenvolvimento web e análise de dados.
+Tenho interesse em projetos que misturam tecnologia, organização e problemas reais — principalmente desenvolvimento web, análise de dados, automação, SQL e aplicações com boa documentação.
 
----
+Atualmente busco oportunidades de entrada em tecnologia, especialmente em desenvolvimento web júnior, front-end, full stack júnior, análise de dados, automação, QA básico ou suporte de sistemas com perfil técnico.
 
-## Tecnologias
+## Portfólio
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Reuni meus principais projetos em um portfólio pessoal feito com **HTML, CSS e JavaScript**:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🔗 [Acessar portfólio](https://theocfischer.github.io/portfolio-theo-fischer/)
 
----
+O site reúne projetos de análise de dados com Python, desenvolvimento web com Node.js/MySQL e estudos em IA, automação e sistemas.
+
+## Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-222?style=flat&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-222?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-222?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-222?style=flat&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-222?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-222?style=flat&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Python-222?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/pandas-222?style=flat&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Git-222?style=flat&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-222?style=flat&logo=github&logoColor=white" />
+</p>
+
+**Desenvolvimento Web & Sistemas**  
+HTML, CSS, JavaScript, Node.js, Express, APIs REST, JSON, Postman/Insomnia
+
+**Dados & Automação**  
+Python, pandas, NumPy, Matplotlib, Jupyter Notebook, Excel, Power Query, noções de ETL
+
+**Banco de Dados**  
+SQL, MySQL, consultas, relacionamentos e modelagem relacional básica
+
+**Ferramentas e suporte**  
+Git, GitHub, VS Code, XAMPP, Windows, Linux básico, hardware e redes TCP/IP
 
 ## Projetos em destaque
 
-### [Sistema de Agendamento de Quadras - IFRS](https://github.com/theocfischer/ProjetoQuadrasIFRS)
+### [Análise de Dados Ambientais — Lagoa dos Patos](https://github.com/theocfischer/analise-dados-ambientais-lagoa-dos-patos)
 
-Sistema web desenvolvido com Node.js, Express e MySQL para gerenciamento de usuários, autenticação, sessões e agendamentos.
+Projeto baseado no meu estágio obrigatório na FURG, com foco em organização, tratamento e visualização de dados ambientais da Lagoa dos Patos usando Python, pandas, NumPy, Jupyter Notebook e Matplotlib.
 
-**Tecnologias:** Node.js, Express, MySQL, HTML, CSS e JavaScript
-
----
-
-### [Análise de Dados Ambientais - Lagoa dos Patos](https://github.com/theocfischer/analise-dados-ambientais-lagoa-dos-patos)
-
-Projeto desenvolvido durante estágio na FURG utilizando Python para tratamento, organização e análise de dados ambientais relacionados à qualidade da água.
-
-**Tecnologias:** Python, Pandas, Jupyter Notebook e Matplotlib
+**Tecnologias:** Python, pandas, NumPy, Jupyter Notebook, Matplotlib, documentação técnica
 
 ---
 
-### [Site Minecraft](https://github.com/theocfischer/SiteMinecraft)
+### [ProjetoQuadrasIFRS — Sistema de Agendamento Web](https://github.com/theocfischer/ProjetoQuadrasIFRS)
 
-Projeto front-end criado para praticar estruturação de páginas, organização de arquivos, HTML, CSS e publicação com GitHub Pages.
+Sistema acadêmico de agendamento de quadras desenvolvido com Node.js, Express, MySQL, HTML, CSS e JavaScript. Inclui cadastro de usuários, autenticação, sessões, CRUD e integração com banco de dados.
 
-**Tecnologias:** HTML e CSS
+**Tecnologias:** Node.js, Express, MySQL, HTML, CSS, JavaScript
+
+---
+
+### [Assistente Financeiro com IA](https://github.com/theocfischer/edu-financeiro-agente-ia)
+
+Projeto em Python desenvolvido no bootcamp Bradesco/DIO, com foco em lógica de respostas, educação financeira, segurança digital, organização de código e documentação no GitHub.
+
+**Tecnologias:** Python, IA aplicada, lógica de programação, documentação
 
 ---
 
-## Atualmente estudando
+### [Portfólio Pessoal](https://github.com/theocfischer/portfolio-theo-fischer)
 
-- Desenvolvimento Web
-- Backend com Node.js
-- Bancos de Dados Relacionais
-- Análise de Dados com Python
-- Boas práticas de Git e GitHub
+Portfólio desenvolvido em HTML, CSS e JavaScript puro para centralizar meus projetos, formação, habilidades e canais de contato profissional.
 
----
+**Tecnologias:** HTML, CSS, JavaScript, GitHub Pages
+
+## Atualmente estudando e reforçando
+
+- Desenvolvimento web com HTML, CSS, JavaScript e Node.js
+- Banco de dados relacional e SQL
+- Análise de dados com Python
+- Automação e organização de processos
+- Git, GitHub e documentação de projetos
+- Fundamentos de QA/testes e suporte de sistemas
 
 ## Contato
 
-**LinkedIn**  
-https://www.linkedin.com/in/theo-fischer-8094682b7/
-
-**GitHub**  
-https://github.com/theocfischer
-
-**E-mail**  
-theocfischer@gmail.com
+- Portfólio: [theocfischer.github.io/portfolio-theo-fischer](https://theocfischer.github.io/portfolio-theo-fischer/)
+- LinkedIn: [linkedin.com/in/theo-fischer-8094682b7](https://www.linkedin.com/in/theo-fischer-8094682b7/)
+- GitHub: [github.com/theocfischer](https://github.com/theocfischer)
+- E-mail: `theocfischer@gmail.com`
